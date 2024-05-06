@@ -1,0 +1,29 @@
+.home {
+  background-color: black;
+  height: 500px;
+}
+.mainhome {
+  display: flex;
+  justify-content: space-between;
+  padding: 60px;
+}
+
+.nametag {
+  color: white;
+}
+
+.imagetag {
+  height: 200px;
+  background-color: white;
+  color: white;
+  margin-right: 30px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.image {
+  height: 200px;
+
+  border-radius: 50%;
+  width: 200px;
+}

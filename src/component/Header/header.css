@@ -1,0 +1,19 @@
+.header {
+  background-color: rgba(143, 141, 139, 0.181);
+  padding: 10px;
+  position: sticky;
+}
+.headmain {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.headItems {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.headItems li {
+  margin-right: 50px; /* Add margin between each li */
+}
